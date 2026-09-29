@@ -1,7 +1,7 @@
 // ====== EDITA AQUÍ TUS DATOS ======
 const perfil = {
   correo: "jonathanj.gcisneros@gmail.com",
-  cv: "#", github: "https://github.com/LianDev1", linkedin: "https://www.linkedin.com/in/jnthnjcsnrs"
+cv: "#", github: "https://github.com/LianDev1", linkedin: "https://www.linkedin.com/in/jnthnjcsnrs"
 };
 
 const tecnologias = [
