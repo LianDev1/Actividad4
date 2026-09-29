@@ -2,8 +2,8 @@
 
 Portafolio web de desarrollador de software hecho con HTML, CSS, JavaScript y Bootstrap 5. Es un ejercicio de diseño y estructura; parte del contenido (proyectos y certificaciones) es de ejemplo.
 
-- **Repositorio:** https://github.com/tu-usuario/portafolio
-- **GitHub Pages:** https://tu-usuario.github.io/portafolio/
+- **Repositorio:** https://github.com/LianDev1/Actividad4.git
+- **GitHub Pages:** https://liandev1.github.io/Actividad4/
 
 ## Descripción del proyecto
 
@@ -32,8 +32,8 @@ Portafolio web de desarrollador de software hecho con HTML, CSS, JavaScript y Bo
 index.html
 css/portafolio.css
 js/portafolio.js
-img/foto-perfil.svg   (reemplazar por tu foto real)
-img/capturas/         (capturas para este README)
+img/Foto_perfil.png   
+img/capturas/         
 ```
 
 ## Proceso de creación
@@ -51,5 +51,5 @@ img/capturas/         (capturas para este README)
 
 ![Escritorio](img/capturas/home_1.png)
 ![Escritorio](img/capturas/home_2.png)
-
-![Móvil](img/capturas/movil.png)
+![Escritorio](img/capturas/home_3.png)
+![Escritorio](img/capturas/home_4.png)
