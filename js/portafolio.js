@@ -1,7 +1,7 @@
 // ====== EDITA AQUÍ TUS DATOS ======
 const perfil = {
-  correo: "tucorreo@email.com",
-  cv: "#", github: "https://github.com/tu-usuario", linkedin: "https://linkedin.com/in/tu-usuario"
+  correo: "jonathanj.gcisneros@gmail.com",
+  cv: "#", github: "https://github.com/LianDev1", linkedin: "https://www.linkedin.com/in/jnthnjcsnrs"
 };
 
 const tecnologias = [
@@ -13,8 +13,8 @@ const tecnologias = [
 ];
 
 const experiencia = [
-  {t:"Auxiliar de laboratorio de cómputo",s:"TecNM · Instituto Tecnológico de Oaxaca",d:"Soporte a compañeros en prácticas de programación y mantenimiento de equipos.",a:"2025 - Actual"},
-  {t:"Proyecto de servicio social (plan)",s:"Desarrollo de sistema web escolar",d:"Planeo desarrollar un sistema de control de asistencia con PHP y MySQL.",a:"2026"}
+  {t:"Auxiliar de laboratorio de cómputo",s:"TecNM · Instituto Tecnológico de Oaxaca",d:"Soporte a compañeros en prácticas de programación y mantenimiento de equipos.",a:"2026 - Actual"},
+  {t:"Proyecto de servicio social (en curso)",s:"Desarrollo de biblioteca digital",d:"Planeo desarrollar un sistema de control de asistencia con PHP y MySQL.",a:"2026"}
 ];
 
 const proyectos = [
