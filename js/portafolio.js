@@ -13,8 +13,8 @@ const tecnologias = [
 ];
 
 const experiencia = [
-  {t:"Auxiliar de laboratorio de cómputo",s:"TecNM · Instituto Tecnológico de Oaxaca",d:"Soporte a compañeros en prácticas de programación y mantenimiento de equipos.",a:"2026 - Actual"},
-  {t:"Proyecto de servicio social (en curso)",s:"Desarrollo de biblioteca digital",d:"Planeo desarrollar un sistema de control de asistencia con PHP y MySQL.",a:"2026"}
+  {t:"Auxiliar del Departamento Centro de Cómputo",s:"TecNM · Instituto Tecnológico de Oaxaca",d:"Tecnico para dar soporte en las areas del Instituto Tecnologico de Oaxaca.",a:"2026 - Actual"},
+  {t:"Proyecto de servicio social (en curso)",s:"Desarrollo de biblioteca digital",d:"Planeo desarrollar un sistema de control de información para la biblioteca.",a:"2026"}
 ];
 
 const proyectos = [
@@ -33,9 +33,9 @@ const formacion = [
 ];
 
 const extra = [
-  {t:"Hackatón TecNM",d:"Participación en equipo (ejemplo)."},
-  {t:"Club de programación",d:"Miembro activo del club escolar."},
-  {t:"Voluntariado tecnológico",d:"Talleres de computación básica."}
+  {t:"ExpoProyectos",d:"Participación en equipo (Nirvana)."},
+  {t:"Club de programación",d:"Fui miembro activo del club escolar."},
+  {t:"Voluntariado tecnológico",d:"Talleres de computación básica en mi pueblo."}
 ];
 // ====== FIN DE DATOS ======
 
