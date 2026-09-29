@@ -2,7 +2,7 @@
 
 Portafolio web de desarrollador de software hecho con HTML, CSS, JavaScript y Bootstrap 5. Es un ejercicio de diseño y estructura; parte del contenido (proyectos y certificaciones) es de ejemplo.
 
-- **Repositorio:** https://github.com/LianDev1/Actividad4.git
+- **Repositorio:**  https://github.com/LianDev1/Actividad4.git
 - **GitHub Pages:** https://liandev1.github.io/Actividad4/
 
 ## Descripción del proyecto
@@ -38,7 +38,7 @@ img/capturas/
 
 ## Proceso de creación
 
-1. Analicé la imagen de referencia: fondo oscuro, columna central angosta, píldoras azules y secciones en orden.
+1. Analicé los objetivos de la actividad y en base a las indicaciones fui construyendo mi portafolio, tome inspiracion de algunos videos de YouTube para obtener el resultado deseado.
 2. Creé el repositorio y la estructura de carpetas (`css`, `js`, `img`).
 3. Armé `index.html` con Bootstrap por CDN, iconos de Bootstrap Icons y Devicon, y la fuente Inter.
 4. Definí la paleta y estilos propios en `css/portafolio.css` con variables CSS (fondo, azul y bordes).
