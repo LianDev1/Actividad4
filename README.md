@@ -1,4 +1,4 @@
-# Portafolio Personal | Tu Nombre
+# Portafolio Personal | Jonathan Julian Garcia Cisneros
 
 Portafolio web de desarrollador de software hecho con HTML, CSS, JavaScript y Bootstrap 5. Es un ejercicio de diseño y estructura; parte del contenido (proyectos y certificaciones) es de ejemplo.
 
@@ -49,5 +49,7 @@ img/capturas/         (capturas para este README)
 
 ## Capturas de pantalla
 
-![Escritorio](img/capturas/escritorio.png)
+![Escritorio](img/capturas/home_1.png)
+![Escritorio](img/capturas/home_2.png)
+
 ![Móvil](img/capturas/movil.png)
