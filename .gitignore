@@ -1,0 +1,21 @@
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Carpetas de configuración de editores de código
+.vscode/
+.idea/
+
+# Variables de entorno y credenciales
+.env
+.env.local
+
+# Archivos temporales y registros
+*.log
+*.tmp
+
+# Dependencias y compilaciones (por si se usan a futuro)
+node_modules/
+dist/
+build/
